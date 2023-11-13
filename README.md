@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я backend разработчик на языке Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мне 23 года. Мой опыт включает в себя разработку веб-приложений с использованием Django и DRF. 
+Я backend разработчик на языке Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мне 23 года. Специализируюсь на разработке веб-приложений с использованием Django и DRF. 
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
